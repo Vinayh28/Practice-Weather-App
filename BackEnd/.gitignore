@@ -1,0 +1,11 @@
+# Node.js and environment files
+node_modules/
+*.env
+npm-debug.log
+yarn-error.log
+
+# Logs and temp files
+*.log
+*.tgz
+*.bak
+*.swp

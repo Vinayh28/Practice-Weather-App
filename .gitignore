@@ -1,0 +1,29 @@
+# Node.js and environment files
+node_modules/
+.env
+npm-debug.log
+yarn-error.log
+*.env
+
+# Build directories and temporary files
+/dist
+/build
+/public
+/coverage
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# .env files for production or development (if you have any)
+.env.local
+.env.production
+.env.development
+
+# Debugger directory
+.idea/
